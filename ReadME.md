@@ -1,6 +1,6 @@
 # README
 
-## File Read & Write Challenge 🖋️
+## File Handling and Exception Handling Assignment 🖋️
 
 This Python script provides two main functionalities:
 
@@ -35,4 +35,5 @@ read_and_modify_file(input_file, output_file)
 
 - If the input file does not exist, a message is displayed.
 - Other file read/write errors are caught and reported.
+
 
